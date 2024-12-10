@@ -22,6 +22,10 @@
 <a href = "mailto:igorpcferreira@gmail.com" height="30" width="100"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/igor_cferreira" target="_blank" height="30" width="100"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 
+Com mais de 3️⃣ anos de experiência, sou especializado em Desenvolvimento FullStack, combinando expertise técnica com uma paixão por criar soluções inovadoras e impactantes.
+💡 Guiado por uma mentalidade de crescimento, valorizo aprender com os outros e enfrentar novos desafios.
+
+Minha habilidade em resolver problemas complexos 🧩 com abordagens criativas reflete meu compromisso em entregar resultados excepcionais ✅ em cada projeto que realizo. Busco constantemente transformar desafios em oportunidades 🚪✨, sempre com o objetivo de gerar impacto positivo e agregar valor às entregas.
 
 </div>
 
