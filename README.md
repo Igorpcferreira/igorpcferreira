@@ -12,6 +12,9 @@
   <a href="https://www.instagram.com/igor_cferreira" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://igor-ferreira-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -20,15 +23,29 @@
 
 FullStack Developer with **4+ years of experience** building and evolving enterprise-grade applications. Currently working at **Minsait (Indra Group)**, delivering robust, scalable and business-critical software across the full stack.
 
-I operate across the entire development lifecycle - from **backend architecture and REST/GraphQL APIs** to **frontend interfaces and relational databases** - always prioritizing clean design, long-term maintainability and real business value.
+I operate across the entire development lifecycle - from **backend architecture and REST/GraphQL APIs** to **frontend interfaces, relational databases, code quality analysis and performance validation** - always prioritizing clean design, long-term maintainability and real business value.
 
 ```text
 💼 FullStack Developer @ Minsait (Indra Group)
-🔭 Focused on enterprise software, scalable architecture & clean code
-🌱 Always evolving: software design, DevOps practices & system performance
-🎯 Core strengths: Java · Spring Boot · Angular · Vue · SQL
+🔭 Focused on enterprise software, scalable architecture, code quality & clean code
+🌱 Always evolving: software design, DevOps practices, system performance & engineering maturity
+🎯 Core strengths: Java · Spring Boot · Angular · Vue · SQL · SonarQube · Load Testing
 📍 Brazil
 ```
+
+---
+
+<h3 align="center">🌐 Check out my Portfolio</h3>
+
+<p align="center">
+  <a href="https://igor-ferreira-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/igor--ferreira--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Projects, resume and work experience - all in one place.</i>
+</p>
 
 ---
 
@@ -61,25 +78,28 @@ I operate across the entire development lifecycle - from **backend architecture 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### DevOps & Tools
+### DevOps, Quality & Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Load_Testing-5A67D8?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 
 ---
 
 ## 🧠 Areas of Expertise
 
-```
-🏗️  Software Architecture     →  Clean Architecture, SOLID, Design Patterns, DDD
-🔌  APIs & Integrations       →  REST, GraphQL, OpenAPI/Swagger, microservices
-⚡  Performance & Scale       →  Query optimization, caching strategies, load handling
-🚀  DevOps & CI/CD            →  Docker, pipelines, automated deployments
-🧩  FullStack Delivery        →  End-to-end ownership from DB layer to UI
+```text
+🏗️  Software Architecture       →  Clean Architecture, SOLID, Design Patterns, DDD
+🔌  APIs & Integrations         →  REST, GraphQL, OpenAPI/Swagger, microservices
+📈  Code Quality & Metrics      →  SonarQube, static analysis, maintainability, coverage visibility
+⚡  Performance & Load Testing  →  load validation, performance analysis, bottleneck investigation
+🚀  DevOps & CI/CD              →  Docker, pipelines, automated workflows
+🧩  FullStack Delivery          →  End-to-end ownership from DB layer to UI
 ```
 
 ---
@@ -99,9 +119,10 @@ I operate across the entire development lifecycle - from **backend architecture 
 
 ## 🤝 Let's Connect
 
-I'm open to conversations about **software architecture, enterprise development, technical challenges** or just a good engineering chat.
+I'm open to conversations about **software architecture, enterprise development, code quality, performance engineering** or just a good engineering chat.
 
 <p>
+  <a href="https://igor-ferreira-portfolio.vercel.app" target="_blank">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/igor-ferreira-65803b1a6" target="_blank">LinkedIn</a> ·
   <a href="mailto:igorpcferreira@gmail.com">igorpcferreira@gmail.com</a>
 </p>
@@ -109,13 +130,9 @@ I'm open to conversations about **software architecture, enterprise development,
 ---
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=igorpcferreira&color=4F8EF7&style=flat-square&label=Profile+Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
