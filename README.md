@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/lighthouse-100_a11y-35c8ff?style=flat-square&labelColor=010503" alt="">
 </p>
 
+<p align="center">
+  <a href="https://www.igordecastro.com.br">
+    <img width="100%" src="https://raw.githubusercontent.com/Igorpcferreira/igorpcferreira/main/assets/cta-portfolio.svg" alt="Explore o portfólio completo em igordecastro.com.br">
+  </a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:010503,35:52ff7d,70:35c8ff,100:010503&height=2" alt="">
 
 ## <samp>`01.` &nbsp;whoami</samp>
@@ -187,6 +193,12 @@ $ curl igordecastro.com.br
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://www.igordecastro.com.br">
+    <img width="100%" src="https://raw.githubusercontent.com/Igorpcferreira/igorpcferreira/main/assets/cta-portfolio-sm.svg" alt="Veja tudo em igordecastro.com.br">
+  </a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:010503,35:52ff7d,70:35c8ff,100:010503&height=2" alt="">
 
 ## <samp>`03.` &nbsp;enterprise systems</samp>
@@ -299,6 +311,12 @@ Academic tutor (2021/2) · Brazilian Informatics Olympiad · SBC Programming Mar
 ## <samp>`07.` &nbsp;let's talk</samp>
 
 Building a product from scratch, modernizing a critical system, or solving a technical challenge that needs an end-to-end view? **You'll talk directly to me.**
+
+<p align="center">
+  <a href="https://www.igordecastro.com.br">
+    <img width="100%" src="https://raw.githubusercontent.com/Igorpcferreira/igorpcferreira/main/assets/cta-portfolio.svg" alt="Explore o portfólio completo em igordecastro.com.br">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://somoskyber.com.br"><img src="https://img.shields.io/badge/KYBER_TECH-52ff7d?style=for-the-badge&labelColor=010503&logoColor=010503" alt="Kyber Tech"></a>
