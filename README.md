@@ -214,7 +214,7 @@ I also own **SonarQube** execution and monitoring on the Navy project — tracki
 ![Java](https://img.shields.io/badge/Java-010503?style=flat-square&logo=openjdk&logoColor=52ff7d)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-010503?style=flat-square&logo=springboot&logoColor=52ff7d)
 ![Quarkus](https://img.shields.io/badge/Quarkus-010503?style=flat-square&logo=quarkus&logoColor=35c8ff)
-![Hibernate](https://img.shields.io/badge/JPA_·_Hibernate-010503?style=flat-square&logo=hibernate&logoColor=52ff7d)
+![Hibernate](https://img.shields.io/badge/JPA_%C2%B7_Hibernate-010503?style=flat-square&logo=hibernate&logoColor=52ff7d)
 ![Maven](https://img.shields.io/badge/Maven-010503?style=flat-square&logo=apachemaven&logoColor=35c8ff)
 ![Node.js](https://img.shields.io/badge/Node.js-010503?style=flat-square&logo=nodedotjs&logoColor=52ff7d)
 ![NestJS](https://img.shields.io/badge/NestJS-010503?style=flat-square&logo=nestjs&logoColor=52ff7d)
